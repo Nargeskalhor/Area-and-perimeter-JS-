@@ -7,3 +7,6 @@ console.log("area", area);
 console.log("length", length);
 let qatar = 9;
 let p = 3.14;
+let radius = 5;
+let fullarea = radius * radius * p;
+let fullperimeter = qatar * p;
