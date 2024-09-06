@@ -13,3 +13,6 @@ let fullperimeter = qatar * p;
 console.log("circle:");
 console.log(fullarea);
 console.log(fullperimeter);
+let sides = (7, 8, 10, 5);
+let red = 7 + 8 + 10 + 5;
+console.log(red);
